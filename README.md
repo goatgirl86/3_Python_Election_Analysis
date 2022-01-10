@@ -38,7 +38,9 @@ Screenshot #3: Shows my final election results output.
 # Election Summary
 
 ## Letter to Election Commission
+
 Dear Election Commission,
+
 As you can see from the results above, Python can be used to efficiently analyze large datasets and display simple and easily understood results.  The Python programming language is also intuitive and simple to follow.  With clearly delineated variables, ‘for’ and ‘if’ statements, and proper indentation, I believe Python is the best means of analyzing election data moving forward.  By using the code I have attached, you can easily adapt it to read and write results for almost any election data.  Ways you could adapted my code for your election data:
 
 1) 	For lines 8-11 (file_to_load and file_to_save), you would just navigate to your election data and txt files.  
