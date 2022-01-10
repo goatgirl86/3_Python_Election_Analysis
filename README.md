@@ -18,9 +18,9 @@ The deliverable for this assignment was a prepare code that would properly calcu
   - Arapahoe: 24,801 votes (6.7% of the total votes)
 - County with largest number of votes: Denver
 -	Candidates in the election and their corresponding votes/percentage of total votes:
-  -	Charles Casper Stockham: 85,213 votes (23.0% of the total votes)
-  -	Diana DeGette: 272,892 votes (73.8% of the total votes)
-  -	Raymon Anthony Doane: 11,606 votes (3.1% of the total votes)
+   -	Charles Casper Stockham: 85,213 votes (23.0% of the total votes)
+   -	Diana DeGette: 272,892 votes (73.8% of the total votes)
+   -	Raymon Anthony Doane: 11,606 votes (3.1% of the total votes)
 -	Winning candidate: Diana DeGette with 272,892 votes (73.8% of the total votes)
 
 Screenshot #1: Shows some of my beginning code (where I load data, tell it where to write/save outputs, and initialize variables).  It also shows my terminal output below the code
